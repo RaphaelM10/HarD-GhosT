@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(42, 15, 66);
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+
+}
+a{
+    text-decoration: none;
+}
+.div-header{
+    padding: 50px;
+    margin: 7px;
+    border-radius: 10px;
+    border: 3px solid #fff;
+    background-color: rgb(97, 32, 158);
+
+}
+.div-h1{
+
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    
+
+
+}
+.img-cargos{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.div-h1 h1{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color:  #fff;
+    border-radius: 7px;
+    padding: 10px;
+    color: rgb(97, 32, 158);
+    
+
+}
+.img{
+    
+    text-align: center;
+}
+.img img{
+    width: 400px;
+    height: 400px;
+    border-radius: 7px ;
+   
+   
+}
+.cargos{
+    background-color: #fff;
+    color: rgb(97, 32, 158);
+    padding: 60px;
+    border-radius: 7px;
+   
+}
+.cargos-lista{
+    padding-top: 30px;
+}
+.section{
+    padding: 50px;
+}
+.section-conteudos{
+    display: flex;
+    justify-content: space-around;
+}
+.txt{
+    text-align: center;
+    background-color: rgb(97, 32, 158);
+    padding: 30px;
+    border-radius: 7px;
+    border: 3px solid #fff;
+    margin-bottom: 50px;
+
+}
+.txt h3{
+    font-weight: 400;
+    font-size: 30px;
+
+}
+.txt p{
+    font-size: 20px;
+}
+.section-invisivel{
+    position: relative;
+    width: 100%;
+    display: none;
+}
+.invisivel{
+    text-align: center;
+   
+}
+.invisivel img{
+
+    width: 200px;
+    height: 290px;
+
+    position: absolute;
+    
+    
+}
+.section-invisivel-1{
+    position: relative;
+    width: 100%;
+    display: none;
+}
+.invisivel-1{
+    text-align: center;
+    margin-left: 60px;
+   
+}
+.invisivel-1 img{
+    width: 250px;
+    position: absolute;
+    
+    
+}
+.invisivel-2{
+    text-align: center;
+    margin-left: 60px;
+   
+}
+.invisivel-2 img{
+    width: 350px;
+    position: absolute; 
+    
+}
+.boi{
+    display: block;
+}
+.txt-2{
+   text-align: center;
+   background-color: rgb(97, 32, 158);
+   border-radius: 7px;
+   border: 3px solid #fff;
+   margin-bottom: 40px;
+   margin-left: 70px;
+   margin-right: 70px;
+  
+}
+.txt-2 h3{
+    padding-top: 19px;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.txt-2 img{
+    width: 600px;
+    cursor: pointer;
+   
+   
+}
+.contatos {
+
+    text-align: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    border: 3px solid #fff;
+    border-radius: 7px;
+    padding: 60px;
+    background-color: rgb(97, 32, 158);
+
+
+}
+
+.contatos p{
+    background-color:  #fff;
+    width: 180px;
+    padding: 15px;
+    border-radius: 9px;
+    cursor: pointer;
+    border-radius: 7px;
+    color: rgb(97, 32, 158) ;
+    
+    
+}
+.contatos p:hover{
+    background-image: linear-gradient( rgb(231, 225, 236), rgb(147, 96, 192), rgb(153, 134, 172));
+}
+.destaques{
+    
+    text-align: center;
+    font-size: 20px;
+    border: 3px solid #fff;
+    border-radius: 7px;
+    padding: 60px;
+    background-color: rgb(97, 32, 158);
+}
+.destaque-div{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 7px;
+
+}
+.destaque-lista{
+    color: rgb(97, 32, 158);
+}
+.section-reflexao{
+    padding: 30px;
+    background-color: rgb(97, 32, 158);
+    text-align: center;
+    margin-right: 250px;
+    margin-left: 250px;
+    border: 3px solid #fff;
+    border-radius: 3px;
+}
+.div-reflexao-2 img{
+    width: 500px;
+    cursor: pointer;
+}
+.section-2{
+    text-align: center;
+    padding-top: 50px;
+}
+.mais-info{
+    background-color: rgb(97, 32, 158);
+    padding: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 7px;
+    font-weight: 300;
+}
+.section-3{
+   padding-top: 150px;
+}
+.div-galeria{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.div-galeria p{
+    font-size: 20px;
+    background-color: #fff;
+    color:  rgb(97, 32, 158);
+    padding: 20px;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.div-galeria p:hover{
+    background-color: rgb(142, 74, 206);
+}
+
+footer{
+    text-align: center;
+    display: flex;
+    margin-left: 40%;
+
+}
+.footer-hp{
+    padding-top: 40px;
+}
+#img-footer{
+    width: 200px;
+   
+    
+}
+
+

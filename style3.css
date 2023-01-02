@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(42, 15, 66);
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    background-repeat: no-repeat;
+
+}
+
+.section{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+    background-color: rgb(54, 26, 80);
+    padding: 50px;
+    border-radius: 5px;
+}
+.div-header{
+    padding-top: 40px;
+    text-align: center;
+    padding: 70px;
+    margin: 7px;
+    border-radius: 10px;
+    background-color: rgb(97, 32, 158);
+
+}
+.section-div-img img{
+    border-radius: 7px;
+    width: 400px;
+    
+}
+.section-btn{
+    padding-top: 80px;
+    text-align: center;
+}
+.section-btn div{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.section-btn p{
+   font-size: 17px;
+   background-color: #fff;
+   color: rgb(97, 32, 158);
+   padding: 10px;
+   border-radius: 15px;
+   width: 70px;
+   transition: 0.5s;
+}
+.section-btn p:hover{
+    background-color: rgb(142, 74, 206);
+}
+a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    display: flex;
+    margin-left: 40%;
+    padding-top: 90px;
+
+}
+.footer-hp{
+    padding-top: 40px;
+}
+#img-footer{
+    width: 200px;
+    
+}

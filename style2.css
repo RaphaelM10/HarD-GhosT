@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(42, 15, 66);
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    background-repeat: no-repeat;
+
+}
+
+.div-header{
+    padding-top: 50px;
+    text-align: center;
+    padding: 50px;
+    margin: 7px;
+    border-radius: 10px;
+    background-color: rgb(97, 32, 158);
+
+}
+.section{
+    display: flex;
+    padding-top: 100px;
+    justify-content: space-around;
+}
+.section-btn{
+    padding-top: 80px;
+    text-align: center;
+    align-items: center;
+}
+
+.section video{
+    border-radius: 7px;
+    border: 2px solid #fff;
+    height: 300px;
+    width: 280px;
+}
+.section-btn{
+    display: flex;
+    justify-content: center;
+}
+.section-btn p{
+   font-size: 20px;
+   background-color: #fff;
+   color: rgb(97, 32, 158);
+   padding: 10px;
+   border-radius: 15px;
+   width: min-content;
+}
+.section-btn p:hover{
+    background-color: rgb(116, 79, 151);
+}
+a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+    display: flex;
+    margin-left: 40%;
+    padding-top: 90px;
+
+}
+.footer-hp{
+    padding-top: 40px;
+}
+#img-footer{
+    width: 200px;
+    
+}

@@ -1,0 +1,563 @@
+@media(max-width:1050px){
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(97, 32, 158);
+        text-align: center;
+        margin-right: 200px;
+        margin-left: 200px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+    }
+    .div-reflexao-2 img{
+        width: 400px;
+        cursor: pointer;
+    }
+
+}
+@media(max-width:965px){
+    .div-h1 h1{
+        font-size: 20px;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+ 
+}
+
+@media(max-width:865px){
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(97, 32, 158);
+        text-align: center;
+        margin-right: 180px;
+        margin-left: 180px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+    }
+    .div-reflexao-2 img{
+        width: 370px;
+        cursor: pointer;
+    }
+}
+@media(max-width:778px){
+    .div-h1 h1{
+        font-size: 17px;
+    }
+    .invisivel img{
+        width: 120px;
+        height: 180px;
+    }
+    .img img{
+        width: 300px;
+        height: 300px;
+        border-radius: 7px ;
+       
+    }
+    .invisivel-1{
+        text-align: center;
+        margin-left: 60px;
+       
+    }
+    .invisivel-1 img{
+        width: 160px;
+        position: absolute;
+        
+        
+    }
+    .cargos{
+        padding: 30px;
+       
+    }
+    .cargos-lista{
+        padding-top: 10px;
+    }
+    .txt h3{
+        font-size: 19px;
+    }
+    .txt p{
+        font-size: 15px;
+    }
+    .txt img{
+        width: 300px;
+    }
+    .txt-2{
+        margin-right: 100px;
+        margin-left: 100px;
+    }
+    .txt-2 h3{
+        font-size: 16px;
+    }
+    .txt-2 img{
+        width: 200px;
+    }
+    .contatos {
+        font-size: 20px;
+        padding: 20px;
+
+    }
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(97, 32, 158);
+        text-align: center;
+        margin-right: 140px;
+        margin-left: 140px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+    }
+    .div-reflexao-2 img{
+        width: 340px;
+        cursor: pointer;
+    }
+    .contatos p{
+        background-color:  #fff;
+        width: 180px;
+        padding: 15px;
+        border-radius: 9px;
+        cursor: pointer;
+        border-radius: 7px;
+        color: rgb(97, 32, 158) ;
+        transition: .5s;
+        
+    }
+    .destaques{
+
+        font-size: 20px;
+        padding: 20px;
+    }
+    .mais-info{
+
+        padding: 20px;
+       
+    }
+}
+@media (max-width:690px){
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(97, 32, 158);
+        text-align: center;
+        margin-right: 100px;
+        margin-left: 100px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+    }
+    .div-reflexao-2 img{
+        width: 320px;
+        cursor: pointer;
+    }
+}
+@media (max-width:621px){
+.div-h1 h1{
+    font-size: 10px;
+}
+.cargos{
+    padding: 20px;
+    font-size: 13px;
+   
+}
+.txt h3{
+    font-size: 19px;
+}
+.txt p{
+    font-size: 15px;
+}
+.txt img{
+    width: 300px;
+}
+.contatos {
+    font-size: 13px;
+    padding: 10px;
+
+}
+
+.contatos p{
+    background-color:  #fff;
+    width: 180px;
+    padding: 15px;
+    border-radius: 9px;
+    cursor: pointer;
+    border-radius: 7px;
+    color: rgb(97, 32, 158) ;
+    transition: .5s;
+    
+}
+.destaques{
+
+    font-size: 13px;
+    padding: 10px;
+}
+.mais-info{
+
+    padding: 20px;
+   
+}
+}
+
+@media(max-width:585px){
+    .div-h1 h1{
+        font-size: 10px;
+    }
+    .cargos{
+        padding: 15px;
+        font-size: 10px;
+       
+    }
+    .invisivel img{
+        width: 110px;
+        height: 160px;
+    }
+    .img-cargos{
+       gap: 50px;
+    }
+    .cargos-lista{
+        padding-top: 10px;
+    }
+    .img img{
+        width: 200px;
+        height: 200px;
+       
+       
+    }
+    .txt h3{
+        font-size: 19px;
+    }
+    .txt p{
+        font-size: 15px;
+    }
+    .txt img{
+        width: 250px;
+    }
+    .txt-2{
+        margin-right: 30px;
+        margin-left: 30px;
+    }
+    .txt-2 h3{
+        font-size: 13px;
+    }
+    .invisivel-1{
+        text-align: center;
+        margin-left: 60px;
+       
+    }
+    .invisivel-1 img{
+        width: 140px;
+        position: absolute;
+        
+        
+    }
+    .invisivel-2{
+        text-align: center;
+        margin-left: 32px;
+       
+    }
+    .invisivel-2 img{
+        width: 300px;
+        position: absolute; 
+        
+    }
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(97, 32, 158);
+        text-align: center;
+        margin-right: 70px;
+        margin-left: 70px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+    }
+    .div-reflexao-2 img{
+        width: 270px;
+        cursor: pointer;
+    }
+    .contatos {
+        font-size: 13px;
+        padding: 10px;
+    
+    }
+    
+    .contatos p{
+        background-color:  #fff;
+        width: 100px;
+        padding: 10px;
+        transition: .5s;
+        
+    }
+    .destaques{
+    
+        font-size: 13px;
+        padding: 10px;
+    }
+    .destaque-div{
+        padding: 10px;    
+    }
+
+    .div-galeria p{
+        font-size: 15px;
+        padding: 10px;
+    }
+    .mais-info{
+        font-size: 10px;
+        padding: 10px;
+       
+    }
+    footer{
+        font-size: 10px;
+    }
+    #img-footer{
+        width: 100px;
+        height: 100px;
+        
+    }
+}
+@media (max-width:484px){
+    .invisivel-2{
+        text-align: center;
+        margin-left: 30px;
+       
+    }
+    .invisivel-2 img{
+        width: 270px;
+        position: absolute; 
+        
+    }
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(97, 32, 158);
+        text-align: center;
+        margin-right: 40px;
+        margin-left: 40px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+    }
+    .div-reflexao-1 p{
+        font-size: 14px;
+    }
+    .div-reflexao-2 img{
+        width: 230px;
+        cursor: pointer;
+    }
+}
+@media(max-width:414px){
+    .div-h1 h1{
+        font-size: 15px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .img-cargos{
+        gap: 20px;
+     }
+     
+     .section-conteudos{
+       gap: 20px;
+    }
+    .txt{
+        padding: 10px;
+    }
+    .tx2{
+        padding: 10px;
+    }
+    .txt-2 h3{
+        font-size: 12px;
+    }
+    .txt p{
+        font-size: 11px;
+    }
+    .txt-2 img{
+        width: 140px;
+    }
+    .invisivel-1{
+        text-align: center;
+        margin-left: 30px;
+       
+    }
+    .invisivel-1 img{
+        width: 100px;
+        position: absolute;
+        
+        
+    }
+    .invisivel-2{
+        text-align: center;
+        margin-left: 30px;
+       
+    }
+    .invisivel-2 img{
+        width: 240px;
+        position: absolute; 
+        
+    }
+    footer{
+        font-size: 10px;
+    }
+    #img-footer{
+        width: 100px;
+        height: 100px;
+        
+    }
+
+}
+@media (max-width:386px){
+    .invisivel-2{
+        text-align: center;
+        margin-left: 10px;
+       
+    }
+    .invisivel-2 img{
+        width: 210px;
+        position: absolute; 
+        
+    }
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(97, 32, 158);
+        text-align: center;
+        margin-right: 10px;
+        margin-left: 10px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+    }
+    .div-reflexao-1 p{
+        font-size: 14px;
+    }
+    .div-reflexao-2 img{
+        width: 160px;
+        cursor: pointer;
+    }
+
+}
+@media (max-width:355px){
+.div-h1 h1{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 10px;
+        
+    
+    }
+
+.cargos{
+    padding: 10px;
+    font-size: 10px;
+   
+}
+.img-cargos{
+    gap: 10px;
+ }
+ .cargos-lista{
+     padding-top: 1px;
+ }
+.img img{
+    width: 90px;
+    height: 90px;
+    border-radius: 7px ;
+   
+}
+.txt h3{
+    font-size: 15px;
+}
+.txt p{
+    font-size: 10px;
+}
+.txt img{
+    width: 150px;
+}
+.txt-2{
+    text-align: center;
+    background-color: rgb(97, 32, 158);
+    border-radius: 7px;
+    border: 3px solid #fff;
+    margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+   
+ }
+.txt-2 h3{
+    font-size: 9px;
+}
+.contatos {
+    font-size: 10px;
+    padding: 10px;
+
+}
+.invisivel-2{
+    text-align: center;
+    margin-left: 10px;
+   
+}
+.invisivel-2 img{
+    width: 200px;
+    position: absolute; 
+    
+}
+.contatos p{
+    background-color:  #fff;
+    width: 80px;
+    padding: 10px;
+    border-radius: 9px;
+    cursor: pointer;
+    border-radius: 7px;
+    color: rgb(97, 32, 158) ;
+    transition: .5s;
+    
+}
+.destaques{
+
+    font-size: 10px;
+    padding: 10px;
+}
+.mais-info h2{
+    font-size: 10px;
+    font-weight: 600;
+   
+}
+}
+@media (max-width:300px){
+    body{
+        overflow-x: hidden;
+    }
+    .invisivel img{
+        width: 90px;
+        height: 130px;
+    }
+    .txt{
+        padding: 10px;
+    }
+    .txt h3{
+        font-size: 12px;
+    }
+    .txt p{
+        font-size: 10px;
+    }
+    .txt-2 img{
+        width: 110px;
+    }
+    .div-galeria{
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .section-reflexao{
+        padding: 30px;
+        background-color: rgb(97, 32, 158);
+        text-align: center;
+        margin-right: 10px;
+        margin-left: 10px;
+        border: 3px solid #fff;
+        border-radius: 3px;
+    }
+    .div-reflexao-1 p{
+        font-size: 14px;
+    }
+    .div-reflexao-2 img{
+        padding-top: 29px;
+        width: 140px;
+        cursor: pointer;
+    }
+    .invisivel-2{
+        text-align: center;
+        margin-right: 90px;
+       
+    }
+    .invisivel-2 img{
+        width: 180px;
+        position: absolute; 
+        
+    }
+}

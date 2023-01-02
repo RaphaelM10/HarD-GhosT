@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(42, 15, 66);
+    font-family: 'Oswald', sans-serif;
+    color: #fff;
+    background-repeat: no-repeat;
+
+}
+
+a{
+    text-decoration: none;
+}
+main{
+    background-color: rgb(54, 26, 80);
+    margin: 7px;
+    border-radius: 3px;
+    padding-bottom: 50px;
+   
+}
+.div-header{
+    padding-top: 50px;
+    text-align: center;
+    padding: 70px;
+    margin: 7px;
+    border-radius: 10px;
+    background-color: rgb(97, 32, 158);
+
+}
+.section{
+    text-align: center;
+    padding-top: 90px;
+  
+    padding: 50px;
+    border-radius: 5px;
+}
+.section img{
+    padding-top: 70px;
+
+}
+.section-info{
+    padding: 70px;
+    font-size: 20px;
+}
+.section-ip{
+  
+}
+.section-ip div{
+    color: rgb(97, 32, 158);
+    background-color: #fff;
+    text-align: center;
+    padding: 20px;
+   
+}
+.section-baixar{
+   padding-top: 60px;
+}
+.section-baixar div{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.section-baixar div p{
+    color: #fff;
+    background-color: rgb(7, 146, 7);
+    padding: 30px;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.section-baixar div p:hover{
+    background-color: chartreuse;
+}
+
+.section-botao{
+    padding-top: 40px;
+}
+.section-botao div{
+    display: flex;
+    justify-content: center;
+}
+.section-botao div p{
+   font-size: 20px;
+   background-color: #fff;
+   color: rgb(97, 32, 158);
+   padding: 10px;
+   border-radius: 15px;
+   cursor: pointer;
+   transition: 0.5s;
+}
+.section-botao div p:hover{
+    background-color: rgb(142, 74, 206);
+}
+footer{
+    text-align: center;
+    display: flex;
+    margin-left: 40%;
+    padding-top: 90px;
+
+}
+.footer-hp{
+    padding-top: 40px;
+}
+#img-footer{
+    width: 200px;
+    
+}
