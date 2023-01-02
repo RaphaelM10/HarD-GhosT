@@ -78,7 +78,7 @@
     
 }
 
-@media(max-width:300px){
+@media(max-width:350px){
     .div-header h1{
         font-size: 17px;
     }
